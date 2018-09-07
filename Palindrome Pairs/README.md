@@ -147,30 +147,7 @@ public:
 
 其中，`/s/`表示该节点为一个字符串的结尾
 
-```mermaid
-graph TB
-a[head]
-b[/s/]
-c[l]
-d[/l/]
-e[l]
-f[l]
-g[s]
-h[s]
-i[/s/]
-j[/b/]
-k[/b/]
-a-->b
-a-->e
-b-->c
-c-->d
-e-->f
-f-->g
-g-->h
-h-->i
-a-->j
-j-->k
-```
+![](https://littlefish33.cn/image/temp/021.png)
 
 然后对于每一个字符串，在字典树中搜索：
 
