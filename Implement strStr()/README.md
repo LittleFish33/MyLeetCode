@@ -10,3 +10,4 @@
 
 [（原创）详解KMP算法](https://www.cnblogs.com/yjiyjige/p/3263858.html)
 
+然后这题竟然被放在Easy分类里，真。。。Orz
